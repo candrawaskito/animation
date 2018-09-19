@@ -1,6 +1,6 @@
 var animation = bodymovin.loadAnimation({
   container: document.getElementById('anim'), // Required
-  path: 'permission.json', // Required
+  path: 'explosion.json', // Required
   renderer: 'svg', // Required
   loop: true, // Optional
   autoplay: true // Optional
